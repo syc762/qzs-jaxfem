@@ -285,5 +285,5 @@ dependencies:
     - tcmlib==1.4.0
     - tomli==2.2.1
     - umf==0.11.0
-
+    - -r requirements.txt
 prefix: "/home/brarlab/micromamba/envs/jax-gpu-env-3.10"
